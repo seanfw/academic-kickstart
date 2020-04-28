@@ -10,32 +10,35 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Neuroscientist (postdoctoral)
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: New York University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Neuroscience
+- Computational Neuroscience
+- Working Memory
+- Episodic Memory
+- Psychiatry
+- Brain Injury and Recovery
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: PhD in Neuroimaging
+    institution: King's College London (Institute of Psychiatry)
+    year: 2015
+  - course: MSc in Neuroscience
+    institution: King's College London (Institute of Psychiatry)
+    year: 2010
+  - course: BA (hons) in Mathematics
+    institution: Trinity College Dublin
     year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
