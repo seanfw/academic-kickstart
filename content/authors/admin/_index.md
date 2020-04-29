@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Neuroscientist (postdoctoral)
+role: Postdoc
 
 # Organizations/Affiliations
 organizations:
@@ -21,7 +21,6 @@ organizations:
 bio: I research how memories are stored in the brain, and how to get them back when they are lost.
 
 interests:
-- Neuroscience
 - Computational Neuroscience
 - Working Memory
 - Episodic Memory
@@ -72,5 +71,6 @@ user_groups:
 - Researchers
 - Visitors
 ---
+I apply tools from mathematics and neuroscience to study how memories are stored across the brain, and how this process breaks down in people with memory problems (like some patients with psychiatric disorders or brain damage). 
 
-I am a neuroscientist in Xiao-Jing Wang's lab at New York University. I have undertaken research in both basic neuroscience, psychiatry and cognitive neurology. Neuroscience is currently undergoing a revolution in the quality and quantity of available data, across species. This is shining a light on how multiple regions across the brain cooperate to produce cognition. I believe we need a better theoretical understanding of this. This is why I am concentrating on integrating high-quality data to build realistic models of how cognitive functions emerge from interactions between different parts of the brain. 
+Neuroscience is currently undergoing a revolution in the quality and quantity of available data, across species. Our challenge is to turn this exquisite new data into a more complete understanding of how the brain works, and to translate that knowledge into meaningful change for patients with brain disorders. I develop mathematical models of how higher cognitive functions such as short and long-term memories emerge from the interactions between cells across the brain. I collaborate with anatomists, physiologists and psychiatrists in order make our models accurately reflect the cutting state of neuroscience knowledge while staying relevant and useful for clinicians. 
