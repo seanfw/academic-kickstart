@@ -24,6 +24,7 @@ interests:
 - Computational Neuroscience
 - Working Memory
 - Episodic Memory
+- Dopamine
 - Psychiatry
 - Brain Injury and Recovery
 
