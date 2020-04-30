@@ -23,13 +23,36 @@ subtitle = ""
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
-  name = "Python"
+  name = "Dynamical Systems Modelling"
   description = "100%"  
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "chart-line"
+  icon_pack = "fas"
+  name = "Data Analysis and Statistics"
+  
+[[feature]]
+  icon = "chart-line"
+  icon_pack = "fas"
+  name = "Machine Learning"
+  
+[[feature]]
+  icon = "brain"
+  icon_pack = "fas"
+  name = "Neuroimaging Processing and Analysis
+  
+[[feature]]
+  icon = "quote-right"
+  icon_pack = "fas"
+  name = "Science Communication and Writing"
+
+[[feature]]
+  icon = "keyboard"
+  icon_pack = "fas"
+  name = "Python"
+  
+[[feature]]
+  icon = "keyboard"
   icon_pack = "fas"
   name = "Matlab"
-  description = "10%"
-
 +++
