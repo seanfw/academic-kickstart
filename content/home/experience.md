@@ -56,7 +56,6 @@ date_format = "Jan 2006"
   date_start = "2011-09-01"
   date_end = "2015-7-1"
   description = """
-  
   Responsibilities included:
   * Lead neuroimaging analyst on a large longitudinal multimodal imaging study of 400 people born very preterm.
   * Developed processing and analysis pipelines for diffusion MRI, functional MRI, structural MRI and dopamine (F-DOPA) PET.
