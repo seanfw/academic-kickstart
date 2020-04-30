@@ -38,7 +38,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Icahn School of Medicine at Mount Sinai, New York"
   date_start = "2015-09-01"
-  date_end = "2017-09-1"
+  date_end = "2017-09-01"
   description = """
   Responsibilities included:
   * Trained animals to perform cognitive tasks on touchscreens and via eye-movements.
@@ -53,7 +53,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "King's College London (Institute of Psychiatry)"
   date_start = "2011-09-01"
-  date_end = "2015-7-1"
+  date_end = "2015-07-01"
   description = """
   Responsibilities included:
   * Lead neuroimaging analyst on a large longitudinal multimodal imaging study of 400 people born very preterm.
