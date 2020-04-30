@@ -39,7 +39,7 @@ subtitle = ""
 [[feature]]
   icon = "brain"
   icon_pack = "fas"
-  name = "Neuroimaging Processing and Analysis
+  name = "Neuroimaging Processing and Analysis"
   
 [[feature]]
   icon = "quote-right"
