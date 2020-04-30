@@ -59,9 +59,9 @@ social:
   link: https://github.com/seanfw
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-#- icon: cv
-#  icon_pack: ai
-#  link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -72,7 +72,7 @@ user_groups:
 - Researchers
 - Visitors
 ---
-Neuroscience is currently undergoing a revolution in the quality and quantity of available data, across species. Our challenge is to turn this exquisite new data into a more complete understanding of how the brain works, and to translate that knowledge into meaningful change for patients with brain disorders. 
+Neuroscience is undergoing a revolution in the quality and quantity of available data. Our challenge is to turn this exquisite new data into a more complete understanding of how the brain works, and to translate that knowledge into meaningful change for patients with brain disorders. 
 
 I apply tools from mathematics and neuroscience to study how memories are stored across the brain, and how this process breaks down in people with memory problems (like some patients with psychiatric disorders or brain damage). 
 

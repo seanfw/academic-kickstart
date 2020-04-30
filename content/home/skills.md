@@ -24,7 +24,7 @@ subtitle = ""
   icon = "chart-line"
   icon_pack = "fas"
   name = "Dynamical Systems Modelling"
-  description = "100%"  
+  description = ""  
   
 [[feature]]
   icon = "chart-line"
