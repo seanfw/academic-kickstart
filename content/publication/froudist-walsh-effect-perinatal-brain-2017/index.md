@@ -5,8 +5,9 @@ publishDate: 2020-05-01T15:33:28.462114Z
 authors: ["Sean Froudist-Walsh", "Michael AP Bloomfield", "Mattia Veronese", "Jasmin Kroll", "Vyacheslav R. Karolis", "Sameer Jauhar", "Ilaria Bonoldi", "Philip K. McGuire", "Shitij Kapur", "Robin M. Murray", "Chiara Nosarti", "Oliver Howes"]
 publication_types: ["2"]
 abstract: "Perinatal brain injury is associated with altered dopaminergic function and reduced hippocampal volume in adulthood in humans."
-featured: false
+featured: true
 publication: "*eLife*"
+tags: ["dopamine", "perinatal brain injury", "preterm birth", "psychiatry"]
 url_pdf: "https://elifesciences.org/articles/29088"
 doi: "10.7554/eLife.29088"
 ---

@@ -7,6 +7,7 @@ publication_types: ["2"]
 abstract: "Abstract.  Whilst the role of the Disrupted-in-Schizophrenia 1 (DISC1) gene in the aetiology of major mental illnesses is debated, the characterization of its f"
 featured: false
 publication: "*Human Molecular Genetics*"
+tags: ["Psychiatry", "dopamine", "Imaging", "PET", "Psychosis", "Schizophrenia", "Striatum"]
 url_pdf: "https://academic.oup.com/hmg/article/27/20/3498/5045460"
 doi: "10.1093/hmg/ddy242"
 ---
