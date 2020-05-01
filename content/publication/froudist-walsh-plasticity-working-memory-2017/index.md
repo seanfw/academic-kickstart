@@ -7,7 +7,7 @@ publication_types: ["2"]
 abstract: ""
 featured: false
 publication: "*The Neuroscientist*"
-tags: ["plasticity", "working memory"]
+tags: ["plasticity", "working memory","dopamine","brain injury"]
 url_pdf: "http://journals.sagepub.com/doi/abs/10.1177/1073858417717210"
 ---
 
