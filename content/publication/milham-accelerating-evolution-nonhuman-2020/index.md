@@ -7,6 +7,7 @@ publication_types: ["2"]
 abstract: "Nonhuman primate neuroimaging is on the cusp of a transformation, much in the same way its human counterpart was in 2010, when the Human Connectome Project was launched to accelerate progress. Inspired by an open data-sharing initiative, the global community recently met and, in this article, breaks through obstacles to define its ambitions."
 featured: false
 publication: "*Neuron*"
+tags: ["fMRI", "MRI", "non-human primate"]
 url_pdf: "http://www.sciencedirect.com/science/article/pii/S089662731931089X"
 doi: "10.1016/j.neuron.2019.12.023"
 ---

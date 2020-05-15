@@ -7,6 +7,7 @@ publication_types: ["2"]
 abstract: "Autism spectrum disorder (ASD) is proposed to reflect atypical connectivity between higher-order association areas. Using diffusion imaging, Catani et al. revea"
 featured: false
 publication: "*Brain*"
+tags: ["psychiatry", "tractography", "neuroanatomy", "autism", "white-matter connectivity"]
 url_pdf: "https://academic.oup.com/brain/article/139/2/616/1753965"
 doi: "10.1093/brain/awv351"
 ---

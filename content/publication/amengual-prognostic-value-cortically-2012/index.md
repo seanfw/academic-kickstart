@@ -7,6 +7,7 @@ publication_types: ["2"]
 abstract: "We report the case of a chronic stroke patient (62 months after injury) showing total absence of motor activity evoked by transcranial magnetic stimulation (TMS) of spared regions of the left motor cortex, but near-to-complete recovery of motor abilities in the affected hand."
 featured: false
 publication: "*BMC Neurology*"
+tags: ["tractography", "motor", "fMRI", "TMS", "repetition","stroke","brain injury"]
 url_pdf: "https://doi.org/10.1186/1471-2377-12-35"
 doi: "10.1186/1471-2377-12-35"
 ---

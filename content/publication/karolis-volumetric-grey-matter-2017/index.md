@@ -7,6 +7,7 @@ publication_types: ["2"]
 abstract: ""
 featured: false
 publication: "*bioRxiv*"
+tags: ["neurodevelopment", "brain age prediction", "preterm birth"]
 url_pdf: "http://biorxiv.org/content/early/2017/04/13/127365.abstract"
 ---
 
