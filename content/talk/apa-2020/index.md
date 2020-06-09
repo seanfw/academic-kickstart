@@ -1,5 +1,5 @@
 ---
-title: "The rhesus monkey hippocampus critically contributes to scene memory retrieval, but not new learning"
+title: "The hippocampus critically contributes to the retrieval of memories of scenes, but not new learning"
 date: 2020-08-06
 publishDate: 2020-06-06
 publication_types: ["2"]
