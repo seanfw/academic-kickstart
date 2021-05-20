@@ -6,6 +6,7 @@ authors: ["Lucija Rapan", "Sean Froudist-Walsh", "Meiqi Niu", "Ting Xu", "Thomas
 publication_types: ["2"]
 abstract: ""
 featured: false
+tags: ["Cytoarchitecture", "Homology", "motor", "Macaque monkey", "neuromodulators", "receptors"]
 publication: "*NeuroImage*"
 ---
 
