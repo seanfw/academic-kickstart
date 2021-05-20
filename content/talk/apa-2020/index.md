@@ -1,9 +1,9 @@
 ---
-title: "The hippocampus critically contributes to the retrieval of memories of scenes, but not new learning"
+title: "“A gradient of dopamine engages distributed working memory"
 date: 2020-08-06
-publishDate: 2020-06-06
+publishDate: 2020-10-05
 publication_types: ["2"]
-Location: "American Psychological Association Conference (APA 2020), Washington D.C., USA"
+Location: "Joint Psychiatric Imaging and Methodology Meeting (Imperial College London)
 featured: false
 
 ---
