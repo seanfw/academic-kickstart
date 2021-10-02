@@ -28,8 +28,8 @@ date_format = "Jan 2006"
   Responsibilities include:
   * Creating realistic large-scale computational models of primate cortex capable of performing cognitive functions.
   * Grant writing (CRCNS grant to Wang & Palomero-Gallagher).
-  * Initiated and led collaborations with top anatomists Karl Zilles and Nicola Palomero-Gallagher.
-  * Actively collaborated with anatomists Henry Kennedy & Ken Knoblauch, and physiologist Bernardo Rudy.
+  * Leading collaborations with top experimentalists such as Nicola Palomero-Gallagher, Karl Zilles, Daniel Margulies, Ting Xu, Ken Knoblauch & Henry Kennedy
+  
   """
 
 [[experience]]
