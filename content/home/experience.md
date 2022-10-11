@@ -20,7 +20,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Lecturer in Computational Neuroscience and Group Leader"
-  company = "Department of Computer Science and Bristol Neuroscience""
+  company = "Computational Neuroscience Unit, Faculty of Engineering and Bristol Neuroscience"
   company_url = "https://bristolcnu.github.io/"
   location = "University of Bristol"
   date_start = "2022-06-30"
