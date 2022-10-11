@@ -29,7 +29,7 @@ date_format = "Jan 2006"
   Responsibilities include:
   * Head of the Cognition, Anatomy and Neural Networks (CANN) Group
   * Lecturer on "Learning, Computation and the Brain" and "Information Processing and the Brain" courses
-  * Brining science, training and social opportunities to underserved communities.
+  * Science Outreach: Bringing science, training and social opportunities to underserved communities.
   
   """
 
