@@ -10,23 +10,22 @@ authors:
 superuser: true
 
 # Role/position
-role: Postdoctoral Neuroscientist
+role: Lecturer in Computational Neuroscience & Group Leader
 
 # Organizations/Affiliations
 organizations:
-- name: New York University
+- name: University of Bristol
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I research how memories are stored in the brain, and how to get them back when they are lost.
+bio: I investigate flexible cognition in brain-inspired neural networks
 
 interests:
+- Cognition
+- Anatomy
+- Neural Networks
 - Computational Neuroscience
-- Working Memory
-- Episodic Memory
-- Dopamine
-- Psychiatry
-- Brain Injury and Recovery
+- Computational Psychiatry
 
 education:
   courses:
@@ -72,8 +71,8 @@ user_groups:
 - Researchers
 - Visitors
 ---
-Neuroscience is undergoing a revolution in the quality and quantity of available data. Our challenge is to turn this exquisite new data into a more complete understanding of how the brain works, and to translate that knowledge into meaningful change for patients with brain disorders. 
+Cognition: I investigate how areas across the brain work together to produce cognition.
 
-I apply tools from mathematics and neuroscience to study how memories are stored across the brain, and how this process breaks down in people with memory problems (like some patients with psychiatric disorders or brain damage). 
+Anatomy: I study how subtle changes to anatomy across brain areas can lead to the sudden emergence of new function, or dysfunction.
 
-I develop mathematical models of how higher cognitive functions such as short and long-term memories emerge from the interactions between cells across the brain. I collaborate with anatomists, physiologists and psychiatrists in order make our models accurately reflect the cutting edge of neuroscience knowledge while staying relevant and useful for clinicians.
+Neural networks: I develop brain-inspired neural network models, to link from neural circuit interactions to dynamical patterns of activity across the cortex and behavior.

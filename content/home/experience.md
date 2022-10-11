@@ -17,13 +17,30 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+[[experience]]
+  title = "Lecturer in Computational Neuroscience and Group Leader"
+  company = "Department of Computer Science and Bristol Neuroscience""
+  company_url = "https://bristolcnu.github.io/"
+  location = "University of Bristol"
+  date_start = "2022-06-30"
+  date_end = "2022-08-01"
+  description = """
+  Responsibilities include:
+  * Head of the Cognition, Anatomy and Neural Networks (CANN) Group
+  * Lecturer on "Learning, Computation and the Brain" and "Information Processing and the Brain" courses
+  * Brining science, training and social opportunities to underserved communities.
+  
+  """
+
+
 [[experience]]
   title = "Postdoctoral Fellow"
   company = "XJ Wang Lab"
   company_url = "https://www.cns.nyu.edu/wanglab/"
   location = "New York University"
   date_start = "2017-09-01"
-  date_end = ""
+  date_end = "2022-06-30"
   description = """
   Responsibilities include:
   * Creating realistic large-scale computational models of primate cortex capable of performing cognitive functions.
