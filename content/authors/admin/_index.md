@@ -71,8 +71,15 @@ user_groups:
 - Researchers
 - Visitors
 ---
-Cognition: I investigate how areas across the brain work together to produce cognition.
 
-Anatomy: I study how subtle changes to anatomy across brain areas can lead to the sudden emergence of new function, or dysfunction.
+Head of the Cognition, Anatomy & Neural Networks (CANN) Research Group at the University of Bristol
+(Lab website under construction).
 
-Neural networks: I develop brain-inspired neural network models, to link from neural circuit interactions to dynamical patterns of activity across the cortex and behavior.
+In the CANN lab:
+
+
+We investigate how areas across the brain work together to produce COGNITION.
+
+We study how subtle changes to ANATOMY across brain areas can lead to the sudden emergence of new function, or dysfunction.
+
+We develop brain-inspired NEURAL NETWORK models, to link from neural circuit interactions to dynamical patterns of activity across the cortex and behavior.
