@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   company_url = "https://bristolcnu.github.io/"
   location = "University of Bristol"
   date_start = "2022-08-01"
-  date_end = "ongoing"
+  date_end = ""
   description = """
   Responsibilities include:
   * Head of the Cognition, Anatomy and Neural Networks (CANN) Group
