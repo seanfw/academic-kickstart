@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Lecturer in Computational Neuroscience & Group Leader
+role: Senior Lecturer in Computational Neuroscience & Group Leader
 
 # Organizations/Affiliations
 organizations:
@@ -49,7 +49,7 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/seanfw
+  link: https://bsky.app/profile/seanfw.bsky.social
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=1n_2bLsAAAAJ&hl=en
