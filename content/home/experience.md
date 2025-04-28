@@ -19,12 +19,28 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
+  title = "Senior Lecturer in Computational Neuroscience and Group Leader"
+  company = "Computational Neuroscience Unit, Faculty of Engineering and Bristol Neuroscience"
+  company_url = "https://bristolcnu.github.io/"
+  location = "University of Bristol"
+  date_start = 2025-02-01"
+  date_end = ""
+  description = """
+  Responsibilities include:
+  * Head of the Cognition, Anatomy and Neural Networks (CANN) Group
+  * Lecturer on "Cognitive Artificial Intelligence" courses
+  * Faculty of Science and Engineering Access and Inclusion Officer (UG, PGT)
+  
+  """
+
+
+[[experience]]
   title = "Lecturer in Computational Neuroscience and Group Leader"
   company = "Computational Neuroscience Unit, Faculty of Engineering and Bristol Neuroscience"
   company_url = "https://bristolcnu.github.io/"
   location = "University of Bristol"
   date_start = "2022-08-01"
-  date_end = ""
+  date_end = "2025-02-01"
   description = """
   Responsibilities include:
   * Head of the Cognition, Anatomy and Neural Networks (CANN) Group
